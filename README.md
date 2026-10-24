@@ -8,3 +8,7 @@ Durante este programa deseo fortalecer mis conocimientos en las siguientes área
 - Física de partículas y análisis de datos científicos.
 - Programación y desarrollo de proyectos.
 - Hacking ético y ciberseguridad.
+
+
+
+hola como estas 
